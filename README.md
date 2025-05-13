@@ -2,7 +2,7 @@
 --------------------------------
 
 🌱 **I’m currently learning:** 
-Coding basics to lay down the foundation for my interests in XR, UI/UX, and Computer Vision. Starting with languages like Python and JavaScript to build my way up.
+Coding basics to lay down the foundation for my interests in XR, UI/UX, and Computer Vision.
 
 📫 **How to reach me:**
 The best way to reach me is through Discord: butterss6193 
